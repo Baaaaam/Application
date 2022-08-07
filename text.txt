@@ -1,3 +1,7 @@
 Hello
 My name is Beomseok
 3rd lines added
+Good bye
+Hello 
+
+
