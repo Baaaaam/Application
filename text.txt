@@ -1,2 +1,3 @@
-Good bye
-Dear my friend
+Hello
+My name is Beomseok
+3rd lines added
